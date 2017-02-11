@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="link"><a href=""><i>(View More..)</i></a></string>
+    <string name="hotlist">Cart</string>
+    <string name="share">share</string>
+    <string name="CheckOut">Check Out</string>
+</resources>
